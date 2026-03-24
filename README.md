@@ -59,9 +59,7 @@ access key age, and account password policy. Security groups are scanned
 for dangerous ports open to the internet (0.0.0.0/0). CloudTrail is 
 verified to be active and logging API calls.
 
-## Legal Notice
 
-Only run against AWS accounts you own or have explicit permission to audit.
 
 ## Author
 
